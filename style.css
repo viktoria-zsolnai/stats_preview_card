@@ -1,0 +1,22 @@
+@import url('https://fonts.google.com/specimen/Inter');
+
+
+
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+.card {
+    display: flex;
+    background-color:hsl(244, 38%, 16%);
+}
+
+.card h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-weight: 700;
+}
+
+.card p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
