@@ -3,16 +3,35 @@
   <head>
     <meta chrset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css"> 
     <link rel="icon" sizes="192x192" href="\stats-preview-card-component-main\images">
     <title>Insight</title>
   </head>
 
   <body>
-    <div class="card">
-      <h1>Get insights that help your business grow.</h1>
-      <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.</p>
-      <img src="images/image-header-desktop.jpg" alt="">
+    <div class="container">
+      <div class="row">
+        
+        <div class="col-6">
+          <div class="content">
+            <h1>Get <span>insights</span> that help your business grow.</h1>
+            <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.</p>
+          </div>
+
+          <div class="stats row">
+            <div class="col"><p><span id="num">10k+</span><br> COMPANIES</p></div>
+            <div class="col"><p><span id="num">314</span><br> TEMPLATES</p></div>
+              <div class="col"><p><span id="num">12M+</span><br> QUERIES</p></div>
+          </div>
+        </div>
+
+        <div class="col-6">
+          <!--<div class="overlay"></div> -->
+          <img src="images/image-header-desktop.jpg" alt="" class="img-fluid float-end">
+        </div>
+
+      </div>
     </div>
   </body>
 
