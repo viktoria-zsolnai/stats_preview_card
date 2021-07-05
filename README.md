@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://viktoria-zsolnai.github.io/stats_preview_card/]
+- Live Site URL: https://viktoria-zsolnai.github.io/stats_preview_card/
 
 ## My process
 
@@ -64,5 +64,5 @@ Users should be able to:
 
 - GitHub - [viktoria.zsolnai](https://github.com/viktoria-zsolnai)
 - Frontend Mentor - [@viktoria-zsolnai](https://www.frontendmentor.io/profile/viktoria-zsolnai)
-- 
+
 
