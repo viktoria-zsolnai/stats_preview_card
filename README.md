@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/stats-preview-card-component-zfAPKLSuy
 - Live Site URL: https://viktoria-zsolnai.github.io/stats_preview_card/
 
 ## My process
